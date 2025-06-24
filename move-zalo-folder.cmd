@@ -9,7 +9,7 @@ title Move Zalo Folders
     exit)
 
 mklink /j "%localappdata%\ZaloPC" "D:\Zalo\ZaloPC"
-mklink /j "%appdata%\ZaloData" "D:\Zalo\ZaloApp"
+mklink /j "%appdata%\ZaloData" "D:\Zalo\ZaloData"
 mklink /j "%userprofile%\Documents\Zalo Received Files" "D:\Zalo\Zalo Received Files"
 
 exit
